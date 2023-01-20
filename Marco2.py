@@ -1,7 +1,7 @@
 girlfriend_bio = {
     #title of interest behind the double colon
     #interests after the colon
-    "name": "Kenzie Albrecht",
+    "name": "Kenzie",
     "known for": ["Being the best girlfriend in the world"],
     "favourite person": "Marco <3",
     "hobby": "being with boyfriend",
